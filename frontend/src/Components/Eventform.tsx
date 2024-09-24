@@ -53,7 +53,7 @@ const EventForm: React.FC<{ onSubmit: (event: { title: string; date: string; des
             />
             
             {/* Submit Button */}
-            <button type="submit" className="bg-blue-500 text-white p-3 rounded hover:bg-blue-600 transition duration-200">
+            <button type="submit" className="bg-green-500 text-white p-3 rounded hover:bg-green-600 transition duration-200">
                 Create Event
             </button>
         </form>
